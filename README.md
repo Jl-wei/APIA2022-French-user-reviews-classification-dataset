@@ -23,7 +23,7 @@ As we can observe from the following table, that shows examples of labelled user
 If you find our dataset useful, please cite our paper:
 
 
-```
+```bibtex
 @inproceedings{Wei2022,
 author = {Wei, Jialiang and Courbis, Anne-Lise and Lambolais, Thomas and Xu, Binbin, and Bernard, Pierre Louis and Dray, Gérard},
 booktitle = {7ème Conférence Nationale sur les Applications Pratiques de l’Intelligence Artificielle},
