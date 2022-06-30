@@ -24,10 +24,12 @@ If you find our dataset useful, please cite our paper:
 
 
 ```bibtex
-@inproceedings{Wei2022,
-author = {Wei, Jialiang and Courbis, Anne-Lise and Lambolais, Thomas and Xu, Binbin, and Bernard, Pierre Louis and Dray, Gérard},
-booktitle = {7ème Conférence Nationale sur les Applications Pratiques de l’Intelligence Artificielle},
-title = {{Towards a Data Driven Requirements Engineering Approach: Automatic Analysis of User Reviews}},
-year = {2022}
+@INPROCEEDINGS{Wei2022Towards,
+  author = {Jialiang Wei and Anne-Lise Courbis and Thomas Lambolais and Binbin Xu and Pierre Louis Bernard and Gérard Dray},
+  title = {Towards a Data-Driven Requirements Engineering Approach: Automatic Analysis of User Reviews},
+  booktitle = {7th National Conference on Practical Applications of Artificial Intelligence, APIA 2022},
+  year = {2022},
+  pages = {102--107},
+  url = {https://arxiv.org/abs/2206.14669}
 }
 ```
