@@ -1,5 +1,7 @@
 # APIA2022-French-user-reviews-classification-dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7261877.svg)](https://doi.org/10.5281/zenodo.7261877)
+
 *App review, user review, requirements engineering, text classification*
 
 6000 French user reviews from three applications on Google Play (Garmin Connect, Huawei Health, Samsung Health) are labelled manually. We selected four labels: rating, bug report, feature request and user experience.
