@@ -1,6 +1,6 @@
 # APIA2022-French-user-reviews-classification-dataset
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7261877.svg)](https://doi.org/10.5281/zenodo.7261877)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7261877.svg)](https://doi.org/10.5281/zenodo.7261877) 
 
 *App review, user review, requirements engineering, text classification*
 
@@ -35,3 +35,5 @@ If you find our dataset useful, please cite our paper:
   url = {https://arxiv.org/abs/2206.14669}
 }
 ```
+
+Based on this dataset, we developed a labeled dataset containing 6,000 English and 6,000 French reviews for classification, as well as 1,200 bilingual reviews for clustering. This dataset has been made publicly available on [GitHub](https://github.com/Jl-wei/mini-bar) and [Zenodo](https://zenodo.org/records/11066414).
